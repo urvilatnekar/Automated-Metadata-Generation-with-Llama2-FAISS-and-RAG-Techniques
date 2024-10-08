@@ -13,7 +13,7 @@ requirements.txt : all the required libraries with respective versions
 Approach to Metadata Generation
 
 1. Data Extraction
-2. 
+
 The first step involves extracting data from the project documentation and code files to create a comprehensive dataset. This process handles various file formats, such as text files, PDFs, and code files.
 
 Libraries Used:
